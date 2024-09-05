@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1646946389 source:c:\users\hp\desktop\estructuras de datos\tareas\tarea 2\tarea 2 ff\tarea 1\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1646946363 c:\users\hp\desktop\estructuras de datos\tareas\tarea 2\tarea 2 ff\tarea 1\matrix.h
+	<stdexcept>
+

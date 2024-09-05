@@ -1,0 +1,343 @@
+# depslib dependency file v1.0
+1653083280 source:c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Trie.h"
+	<windows.h>
+	<stdio.h>
+	<sys/stat.h>
+	<cstdlib>
+	<cstdio>
+
+1653082694 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\trie.h
+	<stdexcept>
+	<iostream>
+	<string>
+	"TrieNode.h"
+	"HeapPriorityQueue.h"
+
+1652892844 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\trienode.h
+	"BSTreeDictionary.h"
+
+1651541816 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\bstreedictionary.h
+	"Dictionary.h"
+	"KVPair.h"
+	"BSTree.h"
+	"DLinkedList.h"
+
+1652412849 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\dictionary.h
+	"List.h"
+
+1651541816 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\list.h
+
+1651541816 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\kvpair.h
+	<iostream>
+
+1652413061 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\bstree.h
+	<stdexcept>
+	"BSTNode.h"
+	"DLinkedList.h"
+	<iostream>
+
+1652211085 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\bstnode.h
+
+1651541816 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+	<iostream>
+
+1651541816 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\dnode.h
+
+1653612940 source:c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Trie.h"
+	<windows.h>
+	<stdio.h>
+	<sys/stat.h>
+
+1652748912 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\arraylist.h
+	"List.h"
+	<stdexcept>
+	<iostream>
+
+1651541816 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\list.h
+
+1653083900 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\trie.h
+	<stdexcept>
+	<iostream>
+	<string>
+	"TrieNode.h"
+	"HeapPriorityQueue.h"
+
+1652862976 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\trienode.h
+	"BSTreeDictionary.h"
+
+1651541816 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\bstreedictionary.h
+	"Dictionary.h"
+	"KVPair.h"
+	"BSTree.h"
+	"DLinkedList.h"
+
+1652589043 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\dictionary.h
+	"List.h"
+
+1651541816 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\kvpair.h
+	<iostream>
+
+1652589043 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\bstree.h
+	<stdexcept>
+	"BSTNode.h"
+	"DLinkedList.h"
+	<iostream>
+
+1652730993 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\bstnode.h
+
+1651541816 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+	<iostream>
+
+1651541816 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\dnode.h
+
+1652748924 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\arraylist.h
+	"List.h"
+	<stdexcept>
+	<iostream>
+
+1653013658 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\heappriorityqueue.h
+	"PriorityQueue.h"
+	"MaxHeap.h"
+	"KVPair.h"
+	<stdexcept>
+
+1649094482 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\priorityqueue.h
+
+1653013658 c:\users\hp\desktop\estructuras de datos\proyectos\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\maxheap.h
+	<stdexcept>
+
+1653620282 source:d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Trie.h"
+	<windows.h>
+	<stdio.h>
+	<sys/stat.h>
+
+1653086099 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\arraylist.h
+	"List.h"
+	<stdexcept>
+	<iostream>
+
+1647377899 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\list.h
+
+1653621651 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\trie.h
+	<stdexcept>
+	<iostream>
+	<string>
+	"TrieNode.h"
+	"HeapPriorityQueue.h"
+
+1652890625 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\trienode.h
+	"BSTreeDictionary.h"
+
+1653011700 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\bstreedictionary.h
+	"Dictionary.h"
+	"KVPair.h"
+	"BSTree.h"
+	"DLinkedList.h"
+
+1652580533 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\dictionary.h
+	"List.h"
+
+1650409812 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\kvpair.h
+	<iostream>
+
+1652580533 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\bstree.h
+	<stdexcept>
+	"BSTNode.h"
+	"DLinkedList.h"
+	<iostream>
+
+1652352473 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\bstnode.h
+
+1650409897 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+	<iostream>
+
+1646949975 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\dnode.h
+
+1653016066 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\heappriorityqueue.h
+	"PriorityQueue.h"
+	"MaxHeap.h"
+	"KVPair.h"
+	<stdexcept>
+
+1653016066 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\priorityqueue.h
+
+1653016066 d:\tec universidad\documentos\tercer semestre\estructura de datos\proyecto\proyecto 1\proyecto-1-ed\proyecto-0-ed\include\maxheap.h
+	<stdexcept>
+
+1653083900 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\heappriorityqueue.h
+	"PriorityQueue.h"
+	"MaxHeap.h"
+	"KVPair.h"
+	<stdexcept>
+
+1653083900 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\priorityqueue.h
+
+1653083900 c:\users\kenda\onedrive\escritorio\estructuras de datos\proyecto-1-ed\proyecto-0-ed\include\maxheap.h
+	<stdexcept>
+
+1653944237 source:c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Trie.h"
+	<windows.h>
+	<stdio.h>
+	<sys/stat.h>
+
+1653945649 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\arraylist.h
+	"List.h"
+	<stdexcept>
+	<iostream>
+
+1653953324 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\list.h
+
+1653954424 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\trie.h
+	<stdexcept>
+	<iostream>
+	<string>
+	"TrieNode.h"
+	"HeapPriorityQueue.h"
+
+1653954712 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\trienode.h
+	"BSTreeDictionary.h"
+
+1653952406 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\bstreedictionary.h
+	"Dictionary.h"
+	"KVPair.h"
+	"BSTree.h"
+	"DLinkedList.h"
+
+1653952439 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\dictionary.h
+	"List.h"
+
+1653953284 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\kvpair.h
+	<iostream>
+
+1653951772 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\bstree.h
+	<stdexcept>
+	"BSTNode.h"
+	"DLinkedList.h"
+	<iostream>
+
+1653945821 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\bstnode.h
+
+1653952773 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+	<iostream>
+
+1653952841 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\dnode.h
+
+1653953185 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\heappriorityqueue.h
+	"PriorityQueue.h"
+	"MaxHeap.h"
+	"KVPair.h"
+	<stdexcept>
+
+1653953821 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\priorityqueue.h
+
+1653953788 c:\users\kenda\downloads\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\maxheap.h
+	<stdexcept>
+
+1653944238 source:c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Trie.h"
+	<windows.h>
+	<stdio.h>
+	<sys/stat.h>
+
+1653945650 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\arraylist.h
+	"List.h"
+	<stdexcept>
+	<iostream>
+
+1653953326 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\list.h
+
+1653954426 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\trie.h
+	<stdexcept>
+	<iostream>
+	<string>
+	"TrieNode.h"
+	"HeapPriorityQueue.h"
+
+1653954714 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\trienode.h
+	"BSTreeDictionary.h"
+
+1653952408 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\bstreedictionary.h
+	"Dictionary.h"
+	"KVPair.h"
+	"BSTree.h"
+	"DLinkedList.h"
+
+1653952440 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\dictionary.h
+	"List.h"
+
+1653953286 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\kvpair.h
+	<iostream>
+
+1653951774 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\bstree.h
+	<stdexcept>
+	"BSTNode.h"
+	"DLinkedList.h"
+	<iostream>
+
+1653945822 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\bstnode.h
+
+1653952774 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+	<iostream>
+
+1653952842 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\dnode.h
+
+1653953186 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\heappriorityqueue.h
+	"PriorityQueue.h"
+	"MaxHeap.h"
+	"KVPair.h"
+	<stdexcept>
+
+1653953822 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\priorityqueue.h
+
+1653953790 c:\users\hp\desktop\prueba 2 proyecto 1 ed\proyecto-1-ed-main\proyecto-1-ed-main\proyecto-0-ed\include\maxheap.h
+	<stdexcept>
+

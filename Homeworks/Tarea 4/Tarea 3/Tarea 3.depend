@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1650337887 source:c:\users\hp\desktop\estructuras de datos\tareas\tarea 4\tarea 3\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+	<string.h>
+	"ArrayStack.h"
+	"LinkedStack.h"
+	"ArrayQueue.h"
+	"LinkedQueue.h"
+
+1650386730 c:\users\hp\desktop\estructuras de datos\tareas\tarea 4\tarea 3\include\arraystack.h
+	"Stack.h"
+	<stdexcept>
+
+1650070894 c:\users\hp\desktop\estructuras de datos\tareas\tarea 4\tarea 3\include\stack.h
+
+1650166422 c:\users\hp\desktop\estructuras de datos\tareas\tarea 4\tarea 3\include\linkedstack.h
+	<stdexcept>
+	"Stack.h"
+	"Node.h"
+
+1650050588 c:\users\hp\desktop\estructuras de datos\tareas\tarea 4\tarea 3\include\node.h
+
+1650174021 c:\users\hp\desktop\estructuras de datos\tareas\tarea 4\tarea 3\include\arrayqueue.h
+	"Queue.h"
+	<stdexcept>
+
+1650176045 c:\users\hp\desktop\estructuras de datos\tareas\tarea 4\tarea 3\include\queue.h
+
+1650176045 c:\users\hp\desktop\estructuras de datos\tareas\tarea 4\tarea 3\include\linkedqueue.h
+	<stdexcept>
+	"Queue.h"
+	"Node.h"
+

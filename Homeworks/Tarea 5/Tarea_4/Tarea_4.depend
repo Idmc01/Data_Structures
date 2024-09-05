@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1653624842 source:c:\users\hp\desktop\estructuras de datos\tareas\tarea 5\tarea_4\main.cpp
+	<iostream>
+	"MinHeap.h"
+	"LinkedList.h"
+	<string>
+	<cstdlib>
+	<time.h>
+	<string.h>
+
+1653625084 c:\users\hp\desktop\estructuras de datos\tareas\tarea 5\tarea_4\include\minheap.h
+	<stdexcept>
+	<cstdlib>
+	<iostream>
+	<string>
+	"List.h"
+	"LinkedList.h"
+
+1647752873 c:\users\hp\desktop\estructuras de datos\tareas\tarea 5\tarea_4\include\list.h
+
+1653619690 c:\users\hp\desktop\estructuras de datos\tareas\tarea 5\tarea_4\include\linkedlist.h
+	"List.h"
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1647384680 c:\users\hp\desktop\estructuras de datos\tareas\tarea 5\tarea_4\include\node.h
+

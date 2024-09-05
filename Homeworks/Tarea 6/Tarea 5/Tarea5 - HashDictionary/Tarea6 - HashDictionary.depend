@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1605727398 source:c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\main.cpp
+	<iostream>
+	"include\HashTable.h"
+
+1605727565 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\hashtable.h
+	"Dictionary.h"
+	"KVPair.h"
+	"LinkedList.h"
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1538201399 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\dictionary.h
+	"List.h"
+
+1519404306 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\list.h
+
+1504912687 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\kvpair.h
+
+1585247511 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\linkedlist.h
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1585247577 c:\users\mavil\onedrive - tec\cursos\ed\2020-2\tareas\tarea6 - hashdictionary\include\node.h
+	<cstdlib>
+
+1654319860 source:c:\users\hp\desktop\estructuras de datos\tareas\tarea 6\tarea 5\tarea5 - hashdictionary\main.cpp
+	<iostream>
+	"include\HashTable.h"
+	"include/LinkedList.h"
+
+1654303249 c:\users\hp\desktop\estructuras de datos\tareas\tarea 6\tarea 5\tarea5 - hashdictionary\include\hashtable.h
+	"Dictionary.h"
+	"KVPair.h"
+	"LinkedList.h"
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1654302280 c:\users\hp\desktop\estructuras de datos\tareas\tarea 6\tarea 5\tarea5 - hashdictionary\include\dictionary.h
+	"List.h"
+
+1519404306 c:\users\hp\desktop\estructuras de datos\tareas\tarea 6\tarea 5\tarea5 - hashdictionary\include\list.h
+
+1504912687 c:\users\hp\desktop\estructuras de datos\tareas\tarea 6\tarea 5\tarea5 - hashdictionary\include\kvpair.h
+
+1585247511 c:\users\hp\desktop\estructuras de datos\tareas\tarea 6\tarea 5\tarea5 - hashdictionary\include\linkedlist.h
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1585247577 c:\users\hp\desktop\estructuras de datos\tareas\tarea 6\tarea 5\tarea5 - hashdictionary\include\node.h
+	<cstdlib>
+
